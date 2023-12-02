@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mustard Throw Blanket",
+        "description": "Embrace warmth and vibrancy with this mustard-colored throw blanket. Made from plush acrylic, its inviting texture and bold hue make it a standout accent for any room.",
+        "images":"mustard.png",
+        "price_php": "₱720" 
+    },
+    {
+        "name": "Orange Throw Blanket",
+        "description": "Add a pop of color to your space with this vibrant orange throw blanket. Made from velvety soft material, it's perfect for adding a cozy and cheerful touch to your home.",
+        "images":"orange.png",
+        "price_php": "₱820"
+    },
+    {
+        "name": "Burnt Orange Throw Blanket",
+        "description": "Consider adding specific details like material, size, or texture to make the description more engaging and informative.",
+        "images": "burntorange.png",
+        "price_php": "₱690"
+    },
+    {
+        "name": "Christmas Red Throw Blanket",
+        "description": "Wrap yourself in holiday cheer with this Christmas red throw blanket. Crafted from premium fleece, its vibrant red color and softness make it a delightful festive accessory.",
+        "images":"christmassred.png",
+        "price_php": "₱720"
+    }
+
+]

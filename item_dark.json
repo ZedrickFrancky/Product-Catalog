@@ -1,0 +1,21 @@
+[
+    
+    {
+        "name": "Navy Throw Blanket",
+        "description": "Classic and sophisticated, this navy throw blanket is made of breathable cotton with a herringbone pattern, offering both style and comfort. A timeless addition to any room.",
+        "images": "navy.png",
+        "price_php": "₱670"
+    },
+    {
+        "name": "Brown Throw Blanket",
+        "description": "Enhance your space with this rich brown throw blanket. Designed for both style and comfort, it features a velvety texture, adding warmth and elegance to any room.",
+        "images": "brown.png",
+        "price_php": "₱620"
+    },
+    {
+        "name": "Black Throw Blanket",
+        "description": "Embrace sophistication with this sleek black throw blanket. Its soft and smooth fabric makes it a versatile addition to your decor, perfect for adding a touch of luxury.",
+        "images": "black.png",
+        "price_php": "₱700" 
+    }
+]

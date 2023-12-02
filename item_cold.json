@@ -1,0 +1,20 @@
+[
+{
+    "name": "Light Sage Green Throw Blanket",
+    "description": "Bring a calming touch to your home with this light sage green throw blanket. Crafted from plush microfiber, it offers coziness and relaxation, making it an inviting accessory for your living space.",
+    "images":"lightgreen.png",
+    "price_php": "₱580"
+},
+{
+    "name": "Christmas Green Throw Blanket",
+    "description": "Get into the holiday spirit with this Christmas green throw blanket. Its festive color and plush fabric make it an ideal choice for snuggling by the fireplace or as a seasonal decor accent.",
+    "images":"christmassgreen.png",
+    "price_php": "₱800"
+},
+{
+    "name": "Navy Throw Blanket",
+    "description": "Classic and sophisticated, this navy throw blanket is made of breathable cotton with a herringbone pattern, offering both style and comfort. A timeless addition to any room.",
+    "images":"navy.png",
+    "price_php": "₱670"
+}
+]

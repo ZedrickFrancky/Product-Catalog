@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Cream Throw Blanket",
+        "description": "Luxuriously soft and cozy, this cream-colored throw blanket is crafted from high-quality fleece, providing warmth and comfort on chilly nights. Perfect for adding a touch of elegance to your living space.",
+        "images": "cream.png",
+        "price_php": "₱550" 
+    },
+    {
+        "name": "Tan Throw Blanket",
+        "description": "A versatile and stylish addition to your home decor, this tan throw blanket features a blend of soft cotton and polyester, offering both durability and softness. Ideal for snuggling up on the couch or as an extra layer on your bed.",
+        "images": "tan.png",
+        "price_php": "₱650" 
+    },
+    {
+        "name": "Mustard Throw Blanket",
+        "description": "Embrace warmth and vibrancy with this mustard-colored throw blanket. Made from plush acrylic, its inviting texture and bold hue make it a standout accent for any room.",
+        "images":"mustard.png",
+        "price_php": "₱720" 
+    },
+    {
+        "name": "Sage Green Throw Blanket",
+        "description": "Create a serene atmosphere with this sage green throw blanket. Crafted from premium microfiber, it's lightweight yet incredibly warm, making it an inviting choice for relaxation.",
+        "images":"sagegreen.png",
+        "price_php": "₱750" 
+    },
+    {
+        "name": "Light Sage Green Throw Blanket",
+        "description": "Bring a calming touch to your home with this light sage green throw blanket. Crafted from plush microfiber, it offers coziness and relaxation, making it an inviting accessory for your living space.",
+        "images": "lightgreen.png",
+        "price_php": "₱580"
+    },
+
+    {
+        "name": "Christmas Green Throw Blanket",
+        "description": "Get into the holiday spirit with this Christmas green throw blanket. Its festive color and plush fabric make it an ideal choice for snuggling by the fireplace or as a seasonal decor accent.",
+        "images": "christmassgreen.png",
+        "price_php": "₱800"
+    },  {
+        "name": "Orange Throw Blanket",
+        "description": "Add a pop of color to your space with this vibrant orange throw blanket. Made from velvety soft material, it's perfect for adding a cozy and cheerful touch to your home.",
+        "images":"orange.png",
+        "price_php": "₱820"
+    },
+    {
+        "name": "Navy Throw Blanket",
+        "description": "Classic and sophisticated, this navy throw blanket is made of breathable cotton with a herringbone pattern, offering both style and comfort. A timeless addition to any room.",
+        "images": "navy.png",
+        "price_php": "₱670"
+    },
+    {
+        "name": "Christmas Red Throw Blanket",
+        "description": "Wrap yourself in holiday cheer with this Christmas red throw blanket. Crafted from premium fleece, its vibrant red color and softness make it a delightful festive accessory.",
+        "images": "christmassred.png",
+        "price_php": "₱720"
+    },
+    {
+        "name": "Burnt Orange Throw Blanket",
+        "description": "Consider adding specific details like material, size, or texture to make the description more engaging and informative.",
+        "images": "burntorange.png",
+        "price_php": "₱690"
+    },
+    {
+        "name": "Brown Throw Blanket",
+        "description": "Enhance your space with this rich brown throw blanket. Designed for both style and comfort, it features a velvety texture, adding warmth and elegance to any room.",
+        "images": "brown.png",
+        "price_php": "₱620"
+    },
+    {
+        "name": "Black Throw Blanket",
+        "description": "Embrace sophistication with this sleek black throw blanket. Its soft and smooth fabric makes it a versatile addition to your decor, perfect for adding a touch of luxury.",
+        "images": "black.png",
+        "price_php": "₱700" 
+    }
+]
